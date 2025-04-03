@@ -1,4 +1,8 @@
-# Logs
+# Logs# Ignore MacOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
 logs
 *.log
 npm-debug.log*
